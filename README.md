@@ -1,1 +1,2 @@
 # golang_strings_replace
+Goのstringsパッケージのreplaceを使いました。
